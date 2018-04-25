@@ -1,45 +1,14 @@
 {
-	"person": [
+	"event": [
 		{
-			"name": "Lea Verou",
-			"age": 32,
-			"hobby": [
-				"Coding",
-				"Design",
-				"Cooking"
+			"title": "Zuip je zat",
+			"start": 24/04/2018 16:00,
+			"end": "25/04/2018 16:00,
+			"attendees": [
+				"Tibo",
+				"Arthur",
+				"Johnny"
 			]
-		},
-		{
-			"name": "David Karger",
-			"age": 50,
-			"hobby": [
-				"Dancing",
-				"Theory"
-			]
-		}
-	],
-	"cat": [
-		{
-			"name": "Vector",
-			"age": 12,
-			"hobby": [
-				"Eating",
-				"Purring",
-				"Sitting"
-			]
-		},
-		{
-			"name": "Adam Catlace",
-			"age": 4,
-			"hobby": [
-				"Eating",
-				"Purring"
-			]
-		},
-		{
-			"name": "Çiki",
-			"age": 1,
-			"hobby": "Playing"
 		}
 	]
 }

@@ -18,6 +18,20 @@
 					"content": "Stuff"
 				}
 			]
+		},
+		{
+			"title": "Zat je zuip",
+			"start": "2018-04-20",
+			"end": "2018-04-29",
+			"min": "5",
+			"max": "20",
+			"description": "Jezelf zuip zatten",
+			"message": [
+				{}
+			],
+			"attendee": [
+				{}
+			]
 		}
 	]
 }
